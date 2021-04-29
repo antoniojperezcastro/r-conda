@@ -4,9 +4,9 @@
 
 > R and RStudio in repo2docker without waiting for packages to compile!
 
-Jupyter+R: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/r-conda/master?filepath=index.ipynb)
+Jupyter+R: [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/antoniojperezcastro/binder_r_conda/HEAD)
 
-RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/r-conda/master?urlpath=rstudio)
+RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](mybinder.org/v2/gh/antoniojperezcastro/binder_r_conda/main?urlpath=rstudio)
 
 Binder supports using R and RStudio, with libraries pinned to a specific versions.
 
